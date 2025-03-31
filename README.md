@@ -15,6 +15,7 @@ This repository contains MATLAB scripts and functions used for analyzing sectora
   - BSE POWER
   - BSE REALTY
   - BSE TECK
+- Uses BSE Data.xlsx as the dataset for all calculations and analysis.
 - Converts the T-bill rate to a monthly format and calculates the Equity Risk Premium.
 - Loads and processes fundamental variables:
   - Earnings-price ratio (EP), Book-to-market ratio (BM), Dividend Yield (DY), Dividend-price ratio (DP), Dividend payout ratio (DE)
