@@ -6,7 +6,15 @@ This repository contains MATLAB scripts and functions used for analyzing sectora
 
 ### **1. Dissertation (Part 1: Data Collection & Preprocessing)**
 - Collects data for BSE sectoral indices:
-  - BSE AUTO, BSE BANKEX, BSE CAPITAL GOODS, BSE CONSUMER DURABLES, BSE METAL, BSE OIL & GAS, BSE POWER, BSE REALTY, BSE TECK
+  - BSE AUTO
+  - BSE BANKEX
+  - BSE CAPITAL GOODS
+  - BSE CONSUMER DURABLES
+  - BSE METAL
+  - BSE OIL & GAS
+  - BSE POWER
+  - BSE REALTY
+  - BSE TECK
 - Converts the T-bill rate to a monthly format and calculates the Equity Risk Premium.
 - Loads and processes fundamental variables:
   - Earnings-price ratio (EP), Book-to-market ratio (BM), Dividend Yield (DY), Dividend-price ratio (DP), Dividend payout ratio (DE)
